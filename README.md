@@ -1,1 +1,1 @@
-# Skripsi
+# Draft Skripsi beserta data yang diperlukan
